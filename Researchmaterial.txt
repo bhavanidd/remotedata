@@ -1,0 +1,44 @@
+The present study draws on the research literature of information needs, seeking and use.
+In the identification of relevant material, databases such as Library and Information Science Abstracts and
+articles published in the volumes of the Annual Review of Information Science and Technology were used. 
+In addition, major reviews on the studies of information needs, for example, Case (2012: 77-93),
+Naumer and Fisher (2010), and Wilson (1981; 1994; 1997; 1999) were examined in detail.
+This effort resulted in the identification of about one hundred articles and books relevant to the research topic. 
+The preliminary reading of the above studies revealed that many of them do not offer much new about the conceptualization 
+of information need because they repeat the definitions presented in earlier studies; Taylor's (1968)
+classic article appeared to be particularly popular in this regard. In order to gain a new perspective on the topic, 
+the focus was placed on how researchers have characterized information need as a contextual factor triggering information seeking.
+As a result of the above specifications, the final research material consisted of about fifty studies.
+They included research papers and refereed conference papers published in international forums.
+The final sample included studies that explicitly discuss information need in various contexts.
+Examples of these studies include Allen (1997), Byström and Hansen (2005), Leckie et al. (1996), Lundh (2010), McKenzie (2004),
+Westbrook (2008b) and Wilson (1981). 
+The research material was examined by means of evolutionary concept analysis (Rodgers 2000; Timmins 2006: 376-377).
+The analysis includes six major steps:
+1.	Identify the concept of interest and associated expressions.
+2.	Identify and select an appropriate setting and sample for data collection.
+3.	Collect data relevant to identify the attributes of the concept, and the contextual basis of the concept.
+4.	Analyse data regarding the above characteristics of the concept.
+5.	Identify an exemplar of the concept.
+6.	Identify implications for further development of the concept.
+In the present study, the concept of interest is information need (step 1). 
+The data collection is described above (step 2). As to step 3, the terminology proposed by Rodgers (2000) was 
+slightly modified in that the present study prefers the term constituent, not attribute while examining the
+characteristics of context. As a further specification, following Lee (2011: 96), the present study assumes 
+that information need is a target entity that can be attributed with a set of specific characteristics such as gap in meaning.
+Moreover, using the definition provided by Lee (2011: 96), context is generally understood as a 'set of things, factors, 
+elements and attributes that are related to a target entity in important ways (e.g. conceptually or pragmatically)
+but are not so closely related to the target entity that they are considered to be exclusively part of the target entity itself'.
+For this reason, the present study excludes investigations that characterize information need in the internal context of the actor.
+Cognitive-affective behaviour is an example of such contexts. For instance, the experience of cognitive dissonance may 
+affect the formation of information need (Wilson 1999: 256-257). However, the experience of cognitive dissonance and 
+information need may be so intricately related that it is not possible to indicate reliably which one is a target 
+entity and which one is its context.At the next phase (step 4), the constituents of the contexts of
+information need were analysed. To this end, 1 research material was scrutinized to identify factors that are conceptually 
+or pragmatically related to the phenomena of information need. More specifically, attention was devoted to how various 
+researchers have characterized such factors. They include, for example, task at hand and dialogue. Such factors are
+constitutive of contexts of information need; contexts of these kinds include, for example, task performance. 
+After having identified such constituents, the analysis was continued by comparing the characterizations of the
+constituents presented by various researchers. Then, exemplars depicting information need were identified with
+regard to contexts of various kinds (step 5). Finally, implications for further analysis of concept of information
+need were identified (step 6).

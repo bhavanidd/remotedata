@@ -1,0 +1,46 @@
+Over the last two decades, the conceptual analysis of the triggers and drivers of information seeking is one of the most
+neglected topics in the studies of information behaviour. The major studies date back to the period ranging from the 
+late 1960s to the early 1990s. These contributions include Taylor's (1968) study on question-negotiation in the
+context of reference interview, Wilson's (1981) article on user studies and information needs, 
+Belkin and his colleagues' (1982) hypothesis of the anomalous state of knowledge (ASK), the construct of gap 
+constitutive of Sense-Making methodology (Dervin's 1983), and the principle of uncertainty proposed by Kuhlthau (1993). 
+Since that time, the interest in the motivators for information seeking has declined, and one may get an impression that these 
+factors are no longer particularly relevant. However, this conclusion is premature since researchers continually refer 
+to concepts such as information need (e.g., Agosto and Hughes-Hassell 2006; Cole 2011; Hansen 2011; Lu and Yan 2011) 
+and uncertainty (e.g., Anderson 2006; Rubin 2010). Overall, the questions related to the motivators for information 
+seeking are important because their study contributes to the understanding of the initial phase of the information-seeking 
+process in particular.The low number of studies focusing on the motivators for information seeking is probably due to the 
+complexity of the topic. For example, information need is found to be an elusive construct with multiple meanings 
+(Naumer and Fisher 2010). Hence, no wonder that researchers seldom engage in a conceptual analysis of information need;
+the concept is taken as given. However, there are a few delightful exceptions. Drawing on a substantial review of literature,
+Case (2012: 85-87) developed a continuum in which objective and subjective approaches to information needs are identified,
+while Choo (2006: 59-60) characterized the cognitive, affective and situational dimensions of information need. Sundin
+and Johannison (2005) conceptualized information need from the perspectives of structure approach, individual approach 
+and communication approach. Most recently, Cole (2011) proposed a theory of information need, even though he discussed 
+it in the specific context of information retrieval. 
+The above investigations provide useful reviews of the conceptual and methodological approaches employed in the 
+study of information need. Unfortunately, so far, we lack detailed studies examining the motivators for information 
+seeking in contexts in which they appear. For example, Courtright's (2007) review article reveals that previous 
+studies have concentrated on the contexts of information-seeking behaviour while insufficient attention has
+been devoted to its triggers and drivers. The present investigation fills gaps in research by focusing on 
+the construct of information need. It was selected for the object of the study because information need is probably
+the most frequently used construct among the concepts referring to the motivators for information seeking. 
+The main goal of the present study is to elaborate the contextualist picture of information need. 
+More specifically, an attempt is made to demonstrate that information need can be conceptualized differently,
+depending on the context in which it appears. The article is structured as follows. First, the research setting is specified by formulating research questions and describing research material and methodology. The study then focuses on the ways in information need is conceptualized in diverse contexts. To this end, three major contexts are discussed: (i) situation of action, (ii) task performance, and (iii) dialogue.
+The present study addresses the following research questions:
+•	What are the major contexts in which information need has been conceptualized in information-seeking studies so far?
+•	What are the main constituents of these contexts? How are the constituents characterized as factors that affect
+the formation and satisfaction of information need?
+•	What kind of picture of information need can be drawn by examining the nature of the above constituents?
+To answer these questions, the main attention was directed to the studies explicitly focusing on information 
+needs conceptualized in the contexts that are characteristic of information-seeking behaviour in particular.
+Such behaviour is primarily dealing with the identification and accessing of information sources of various types
+ranging from human sources to documents. In order to sharpen the focus of the research, studies reviewing information
+needs in the particular context of interactive information search or information retrieval were excluded (for these studies, 
+see Cole 2011; Xie 2007). This is because information needs triggering information retrieval and interactive information 
+search incorporate specific features that originate from the particular requirements of query reformulation, for example.
+Obviously, the review of the above contexts would have required a separate study. Second, for the sake of space restrictions, 
+no attempt will be made to examine specific contexts that indirectly may affect the formation and satisfaction of information 
+needs. These contexts include, for example, information ground ( Fisher et al. 2007), and small world and life in 
+the round (Chatman 1991, 1999).

@@ -1,0 +1,65 @@
+The above picture can be concretised by reviewing conceptualising that characterize task performance as a context in which 
+information needs are experienced. Often, this context deals particularly with a set of factors constitutive of work task 
+performance and problem solving related to this activity. Task performance may be divided into three main parts
+(Byström and Hansen 2005: 1053-1054). First, task construction consists of comprehending the preconditions 
+and goals for performance and completion in relation to a given assignment and/or to situation-based judgments.
+Second, actual performance of the task consists of the practical and conceptual actions taken in order to achieve the goals.
+Third, task completion results of actions taken are joined to form a task resolution, and eventually the task performer
+completes the task performance.One of the earliest examples of truly contextualist approaches to information need was
+provided by Wilson (1981). He emphasized that the contextual elements affecting information needs originate particularly
+from people's work roles in organizations. A work role can be understood as a set of activities and responsibilities of an
+individual. On the other hand, the ways in which one may satisfy his or her need for information depends on the existence
+of personal, social or role-related and environmental barriers (Wilson 1981: 10).
+The contextual elements of the work task environment have been characterized in greater detail by Leckie and her 
+associates (1996: 180-186). In a model of information seeking of professionals they suggest that the roles and related
+tasks undertaken by professionals in the course of daily practice prompt particular information needs, which in turn give 
+rise to an information-seeking process. However, information need is not constant and can be influenced by a number of
+intervening factors. They include, for example, individual demographics (age, profession, specialization, career stage,
+geographic location) and the complexity of task at hand. 
+Importantly, each factor in the information need component of the model exists in continuum of intensity and interacts
+with the others in a complex fashion. For instance, an information need could be unforeseen but relatively unimportant 
+and its solution not needed immediately, while on the other hand, an unexpected need could be of great importance and urgency.
+Whether the information need is anticipated or unexpected together will affect the information-seeking activity undertaken.
+Leckie and her associates (1996) also emphasize that the outcomes of information-seeking process may influence the information
+needs, particularly if the outcome of the information-seeking process is that the need is not satisfied and further
+information seeking is required. In fact, Leckie and her associates (1996) were among the first researchers suggesting
+that the formation of information needs may occur in a cyclical way.
+Problem solving may be defined as a sub-context of task performance. This is because problem solving only becomes meaningful
+in a broader context such as performing a work task. This is particularly characteristic of problem solving occurring in the 
+context of knowledge intensive work. One of the earliest attempts to conceptualize the contextual constituents of information
+need from the perspective of problem solving was provided by Wersig (1973). He approached information needs by deriving them 
+from the information requirements posed by a task or problem at hand. Depending on the nature of such requirements and the
+level of knowledge of the individual, his or her information needs can be defined as potential, objective or subjective. 
+Ultimately, in Wersig's (1973) approach, the contextual elements such as the nature of the task at hand determine the
+relationships between potential, objective and subjective information needs.
+The perspective of problem solving is also employed in approaches focusing on performing tasks with varying complexity.
+It is assumed that the tasks impose information requirements that must be met if the task is to be completed
+(Byström and Järvelin 1995: 192). Confronted with a task, the worker perceives information needs that reflect his or her 
+interpretation of information requirements, prior knowledge, and ability to memorize it. In routine problems 
+there is no problem-formulation phase; the inputs, process, and outcomes are a priori known. In difficult problems,
+the outcomes cannot be a priori determined and thus, there are two kinds of information needs: information needed in 
+problem formulation, and information needed in problem solving (Byström and Järvelin 1995: 194). In the case of 
+non-routine problems, there may be a gap between the worker's knowledge about the task and the perceived requirements
+of the task. This gap is the information need. Byström and Järvelin (1995: 196) point out that the interpretation
+of information needs is also affected by situational factors (e.g., available time). If the information needs are satisfied, 
+the task (or one step through it) can be completed. In an opposite case, the task cannot be completed at all, or it
+must be reformulated.The connection between situational constituents and the requirements of problem-solving are 
+specified further in the model developed by Allen (1997: 119-120). The model suggests that problem-solving is 
+constrained by situational influences and that information needs can be understood in the light of these constraints. 
+If an individual is constrained in such a way that only one course of action exists that will obtain a desired outcome,
+behaviour will be largely automatic. As a consequence, information needs are minimized. If, however, the situation changes, 
+new information needs may materialize. 
+Allen (1997: 120) identified two possible ways that the situation affecting information needs may change.
+In the first scenario, the number of courses of action that will obtain a desired outcome increases.
+Problem solving in this context involves perceiving the options, exploring them, and selecting a single option
+so that the individual or a group is again constrained to a single course of action that will obtain a desired outcome. 
+The other scenario is that the number of courses of action that will allow an individual or group to reach a desired 
+outcome is reduced from one to zero. In such a situation, the problem-solving process involves a search for additional 
+alternatives, an exploration of each alternative, and the selection of a course of action. 
+The above conceptualising revealed a rich variety of contextual constituents, ranging from one's work role to 
+the ways in which alternative courses are selected in problem solving. However, different from conceptualising 
+discussed above in the section 'Situation of action', the temporal (cyclical) and spatial constituents are qualified 
+in a more concrete manner in the context of task performance. These constituents indicate how the formation and 
+satisfaction of a specific information need is facilitated or inhibited, depending on the nature of more concrete 
+constituents such as the instant availability of certain information sources or the physical distance between the colleagues.
+Furthermore, different from the context of 'situation of action' reviewed above, information need is not primarily approached as a black-boxed factor but rather as a derivative category in the context of task performance. It is assumed that information seeking is triggered and driven by antecedent factors to information need, most notably task at hand or problem to be solved. The existence of these factors is the prerequisite for the manifestation of an information need. As a derivative construct of this kind, information need may undergo changes, as the work task is redefined or the problem definition becomes clearer so that alternative ways of action can be specified.
